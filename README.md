@@ -13,6 +13,7 @@ git clone https://github.com/jeet0007/Mern-template.git
 In the root folder 
 ```bash
 yarn install
+cd client && yarn install
 ```
 ## Available Scripts
 runs the backend api using ```node app.js```
